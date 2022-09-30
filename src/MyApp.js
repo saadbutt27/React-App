@@ -21,6 +21,7 @@ function MyApp() {
                 <p>equals to {comparator}</p> :
                 <p>less than {comparator}</p>
             }
+            <h3>Hello Usman</h3>
             {name}
             {haal}
         </>
