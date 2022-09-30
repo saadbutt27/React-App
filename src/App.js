@@ -1,11 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import './App';
+import './App';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Saad Nisar Butt</h1>
+        <h2>My React App</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -13,8 +17,7 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           Learn React
         </a>
       </header>
